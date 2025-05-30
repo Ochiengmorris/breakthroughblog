@@ -1,4 +1,4 @@
-# Blog Website Setup Instructions
+# BreakthroughBlog
 
 This guide will help you set up this full-stack blog website with Node.js/Express backend and Next.js frontend.
 
@@ -42,7 +42,7 @@ npx tsc --init
 
 ### 3. Create server.ts
 
-Copy the Express server code from the artifacts above into `server.js`.
+Copy the Express server code from the artifacts above into `server.ts`.
 
 ### 4. Update package.json
 
